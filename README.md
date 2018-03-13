@@ -11,7 +11,7 @@ Steps to execute.
 2. cd build
 3. cmake ..
 4. make
-5. ./ExtendedKF
+5. ./UnscentedKF
 
 - Initial mean values of velocity, turn rate, and change in turn rate were set as 0.
 - Initial variance of position\_x, position\_y, turn rate, and change in turn rate were set as 0.5.
